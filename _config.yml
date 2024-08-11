@@ -24,7 +24,7 @@ author:
   avatar           : "IMG_0383.jpg"
   name             : "Yunfan Kang"
   pronouns         : "he/him"  
-  bio              : "Short biography"
+  bio              : # "Short biography"
   location         : "Urbana, Illinois"
   employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
