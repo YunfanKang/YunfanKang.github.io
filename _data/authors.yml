@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Yunfan Kang"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Yunfan Kang:
+  name          : "Yunfan Kang"
+  uri           : "https://yunfankang.github.io"
+  email         : "yfkang@illinois.edu"
+  bio           : "Visiting Research Scientist at the University of Illinois Urbana-Champaign, CyberGIS Center for Advanced Digital and Spatial Studies."
+  avatar        : "IMG_0383.jpg"
+  github        : "YunfanKang"
+  googlescholar : "https://scholar.google.com/citations?user=T8vfAJIAAAAJ"
+  orcid         : "https://orcid.org/0000-0001-8488-201X"
